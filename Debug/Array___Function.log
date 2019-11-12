@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\andry\source\repos\array___function\array___function\source.cpp(39): warning C4326: return type of 'main' should be 'int' instead of 'void'
